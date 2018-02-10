@@ -1,6 +1,7 @@
+chcp 65001
 rem cUrl https://curl.haxx.se/download.html
 rem 7z   http://www.7-zip.org/download.html
-chcp 65001
+rem скачивает zip файл и распаковывает его в каталог с заменой файлов
 rem что качать
 SET zip=http://tatstat.gks.ru/wps/wcm/connect/rosstat_ts/tatstat/resources/59f063804fb8496fb8bdbff73a3a624e/form_xml.zip
 rem куда качать
